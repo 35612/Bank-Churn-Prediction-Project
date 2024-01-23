@@ -1,0 +1,1 @@
+Developing a bank customer churn prediction project using machine learning to analyze customer behavior, transaction history, and demographics. The goal is to identify patterns and create models that predict potential churn, enabling proactive retention strategies.
